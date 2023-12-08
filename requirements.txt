@@ -1,0 +1,2 @@
+hondana==3.4.7
+requests==2.31.0
